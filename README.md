@@ -101,7 +101,7 @@ Love ❌ code ✅
 ```
 ![](https://media.discordapp.net/attachments/912038729626058853/1062467782446420049/image.png)
 ```d
-@rayx: Here put your final file name like "blackcap_is_best" or "KSCH_the_Goat" 🤓
+@rayx: Here put your final file name like "rayx_is_best" or "KSCH_the_Goat" 🤓
 ```
 ![](https://media.discordapp.net/attachments/912038729626058853/1062468541967773756/image.png)
 ```d
@@ -110,12 +110,12 @@ Love ❌ code ✅
 ```
 ![](https://media.discordapp.net/attachments/912038729626058853/1062469117954768998/image.png)
 ```d
-@rayx: This is a option to "KILL" all process which could analyze the properties of blackcap, such as the task manager, 
+@rayx: This is a option to "KILL" all process which could analyze the properties of rayx, such as the task manager, 
 the terminal or even analysis tools (so i recommand "yes")
 ```
 ![](https://media.discordapp.net/attachments/912038729626058853/1062469614036078642/image.png)
 ```d
-@rayx: This is a option to ping when someone run BlackCap you can specify "everyone" or "here"
+@rayx: This is a option to ping when someone run Rayx you can specify "everyone" or "here"
 ```
 ![](https://media.discordapp.net/attachments/912038729626058853/1062470764609151016/image.png)
 ```d
